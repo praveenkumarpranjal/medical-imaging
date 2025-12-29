@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.DS_Store
+medical_imaging_data/
+models/
+results/
+logs/
+.ipynb_checkpoints/
